@@ -13,3 +13,7 @@ Praticar a criação de sites institucionais, organização de conteúdo e uso d
 ## 📌 Status
 Feito
 
+## 🔗 Acesso ao site
+https://fariasdaniel191-wq.github.io/site-institucional-escola/ 
+
+
