@@ -11,5 +11,5 @@ Site institucional desenvolvido para uma escola, com páginas informativas e lay
 Praticar a criação de sites institucionais, organização de conteúdo e uso de JavaScript para interações básicas.
 
 ## 📌 Status
-Concluído
+Feito
 
